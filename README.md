@@ -2,8 +2,9 @@
 
 ## 👨‍🔬 Authors
 Reza Ahmadvand  
+Sarah Safura Sharif 
 Yaser (Mike) Banad  
-Sarah Safura Sharif  
+ 
 
 ---
 
@@ -47,7 +48,7 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For questions, collaborations, or access to extended versions of the code:
-- Reza Ahmadvand (Corresponding Author)
+- Yaser Mike Banad (Corresponding Author)
 
 ---
 
