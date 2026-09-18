@@ -42,7 +42,7 @@ Ensure that all required datasets are placed in the working directory before exe
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**.
 
 ---
 
@@ -54,3 +54,7 @@ For questions, collaborations, or access to extended versions of the code:
 
 ## 🚀 Acknowledgments
 This work is part of ongoing research in neuromorphic computing, phase-based neural modeling, and brain-inspired intelligent systems.
+
+## License scope
+
+Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
